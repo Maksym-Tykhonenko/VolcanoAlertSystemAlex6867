@@ -72,7 +72,7 @@ const Exploresystmsystemstckk = () => {
 
   const ONESIGNAL_KEY = `6436bdcb-67c3-4159-9318-e22d51420df5`;
 
-  const TARGET_DATA = new Date(2026, 3, 11, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 16, 8, 8, 0);
 
   const FATCH_TO_OUR_BACK = `https://mysticharbor.site/`;
 
